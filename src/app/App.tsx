@@ -4,7 +4,7 @@ import { ImageWithFallback } from "@/app/components/figma/ImageWithFallback";
 import catalogImg from "@/imports/WhatsApp_Image_2026-07-24_at_12.46.44_AM.jpeg";
 
 const BRAND = "AYAN apparels";
-const HERO_CLOTHING = "/products/hero-polo-green.png?v=1";
+const HERO_CLOTHING = "/products/hero-polo-green.png?v=2";
 
 /** Primary CTA — matches the Tradewood pill button */
 const ctaStyle: React.CSSProperties = {
