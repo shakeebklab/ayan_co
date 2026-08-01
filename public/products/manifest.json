@@ -1,0 +1,123 @@
+{
+  "files": {
+    "ringer-black": "/products/ringer-black.jpg",
+    "ringer-navy": "/products/ringer-navy.jpg",
+    "ringer-charcoal": "/products/ringer-charcoal.jpg",
+    "ringer-forest": "/products/ringer-forest.jpg",
+    "ringer-burgundy": "/products/ringer-burgundy.jpg",
+    "ringer-beige": "/products/ringer-beige.jpg",
+    "ringer-white": "/products/ringer-white.jpg",
+    "ringer-sky": "/products/ringer-sky.jpg",
+    "ringer-navy-detail": "/products/ringer-navy.jpg",
+    "ringer-black-detail": "/products/ringer-black.jpg",
+    "ringer-charcoal-detail": "/products/ringer-charcoal.jpg",
+    "ringer-burgundy-detail": "/products/ringer-burgundy.jpg"
+  },
+  "colors": {
+    "mandarin_contrast": {
+      "heather-grey": "#6B6E72",
+      "black": "#252328",
+      "dark-grey": "#3A3A3E",
+      "charcoal": "#4A4A4E",
+      "light-grey": "#B8B8B4"
+    },
+    "mandarin_placket": {
+      "black": "#1D1C1F",
+      "grey": "#5A5E62",
+      "navy": "#2B2E3C"
+    },
+    "mandarin_piping": {
+      "charcoal": "#2C2C30",
+      "navy": "#1A2744",
+      "indigo": "#273145",
+      "teal": "#2A5C58",
+      "light-grey": "#C8C8C4"
+    },
+    "mandarin_soft": {
+      "lavender": "#A89BB0",
+      "sky": "#8FA4B8",
+      "teal": "#5E8A8E",
+      "sage": "#879583"
+    },
+    "ringer": {
+      "black": "#19191A",
+      "navy": "#14192B",
+      "charcoal": "#353436",
+      "forest": "#1C271E",
+      "burgundy": "#4B1F33",
+      "beige": "#C6A886",
+      "white": "#F0F0F2",
+      "sky": "#6483AC"
+    }
+  },
+  "ringer_paths": [
+    "/products/ringer-black.jpg",
+    "/products/ringer-navy.jpg",
+    "/products/ringer-charcoal.jpg",
+    "/products/ringer-forest.jpg",
+    "/products/ringer-burgundy.jpg",
+    "/products/ringer-beige.jpg",
+    "/products/ringer-white.jpg",
+    "/products/ringer-sky.jpg"
+  ],
+  "ringer_hexes": [
+    "#19191A",
+    "#14192B",
+    "#353436",
+    "#1C271E",
+    "#4B1F33",
+    "#C6A886",
+    "#DADAE2",
+    "#6483AC"
+  ],
+  "mandarin_contrast_paths": [
+    "/products/mandarin-contrast-heather-grey.jpg",
+    "/products/mandarin-contrast-black.jpg",
+    "/products/mandarin-contrast-dark-grey.jpg",
+    "/products/mandarin-contrast-charcoal.jpg",
+    "/products/mandarin-contrast-light-grey.jpg"
+  ],
+  "mandarin_contrast_hexes": [
+    "#47474A",
+    "#252328",
+    "#545354",
+    "#6E6A68",
+    "#64605A"
+  ],
+  "mandarin_placket_paths": [
+    "/products/mandarin-placket-black.jpg",
+    "/products/mandarin-placket-grey.jpg",
+    "/products/mandarin-placket-navy.jpg"
+  ],
+  "mandarin_placket_hexes": [
+    "#1D1C1F",
+    "#323237",
+    "#716B65"
+  ],
+  "mandarin_piping_paths": [
+    "/products/mandarin-piping-charcoal.jpg",
+    "/products/mandarin-piping-navy.jpg",
+    "/products/mandarin-piping-indigo.jpg",
+    "/products/mandarin-piping-teal.jpg",
+    "/products/mandarin-piping-light-grey.jpg"
+  ],
+  "mandarin_piping_hexes": [
+    "#3C3B4A",
+    "#343443",
+    "#273145",
+    "#263242",
+    "#38434F"
+  ],
+  "mandarin_soft_paths": [
+    "/products/mandarin-soft-lavender.jpg",
+    "/products/mandarin-soft-sky.jpg",
+    "/products/mandarin-soft-teal.jpg",
+    "/products/mandarin-soft-sage.jpg"
+  ],
+  "mandarin_soft_hexes": [
+    "#A79EAD",
+    "#8C93A5",
+    "#6D8894",
+    "#879583"
+  ]
+}
